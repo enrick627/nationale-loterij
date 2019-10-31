@@ -6,12 +6,11 @@ namespace kfdgjmsj
     {
         public static void Main(string[] args)
         {
+            //declaraties
+            ushort leeftijd;
 
-        }//declaraties
-        ushort leeftijd;
-
-        //input
-        Console.WriteLine("wat is uw huidige leeftijd?: ");
+            //input
+            Console.WriteLine("wat is uw huidige leeftijd?: ");
             leeftijd = ushort.Parse(Console.ReadLine());
 
             //bereken
@@ -24,12 +23,13 @@ namespace kfdgjmsj
                 Console.WriteLine("om deel te nemen moet je minimum 18 jaar oud zijn");
             }
 
-//toon
+            //toon
 
 
-//wachten
-Console.WriteLine();
+            //wachten
+            Console.WriteLine();
             Console.WriteLine("druk op enter om af te sluiten");
             Console.ReadKey();
+        }
     }
 }

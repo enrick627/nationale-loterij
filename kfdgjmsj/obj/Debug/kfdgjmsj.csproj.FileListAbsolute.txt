@@ -3,3 +3,6 @@
 /Users/enrickdemunter/Projects/kfdgjmsj/kfdgjmsj/obj/Debug/kfdgjmsj.csprojAssemblyReference.cache
 /Users/enrickdemunter/Projects/kfdgjmsj/kfdgjmsj/obj/Debug/kfdgjmsj.exe
 /Users/enrickdemunter/Projects/kfdgjmsj/kfdgjmsj/obj/Debug/kfdgjmsj.pdb
+/Users/enrickdemunter/Projects/kfdgjmsj/nationale-loterij/kfdgjmsj/obj/Debug/kfdgjmsj.csprojAssemblyReference.cache
+/Users/enrickdemunter/Projects/kfdgjmsj/nationale-loterij/kfdgjmsj/obj/Debug/kfdgjmsj.exe
+/Users/enrickdemunter/Projects/kfdgjmsj/nationale-loterij/kfdgjmsj/obj/Debug/kfdgjmsj.pdb
